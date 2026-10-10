@@ -4,6 +4,7 @@ Features
 1. Add new tasks.
 2. Delete tasks.
 3. Simple user interface.
+  
 Technologies Used
 1. HTML
 2. CSS
